@@ -40,6 +40,7 @@ body{
     color: hsl(75, 94%, 57%);
     margin-bottom: 23px;
     text-align: center;
+    font-weight: bold;
 }
 
 #text2{
